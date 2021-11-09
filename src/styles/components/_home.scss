@@ -1,0 +1,17 @@
+.sous-home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-img {
+  height: 300px;
+  width: 500px;
+}
+
+p {
+  color: $color-2;
+  text-align: center;
+  margin: 50px;
+  height: 300px;
+  width: 500px;
+}
